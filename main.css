@@ -1,28 +1,22 @@
 @font-face {
-        font-family: Mog;
-        src: url(./assets/fonts/Moglan_DEMO.ttf);
-}
-@font-face {
         font-family: mett;
         src: url(./assets/fonts/Metropolis-Thin.otf);
 }
-@font-face {
-        font-family: bran;
-        src: url(./assets/fonts/Branch.ttf);
-}
-@font-face {
-        font-family: sag;
-        src: url(./assets/fonts/Negaroa-Regular.ttf);
-}
+
+
 
 .navbar.navbar-expand-lg.navbar-light{
         background-color: #3c3a1e; 
         font-family: 'mett';
 }
+
+
 .navbar.navbar-expand-lg.navbar-light .navbar-brand
 {
         color: rgb(255, 255, 255);
 }
+
+
 .navbar.navbar-expand-lg.navbar-light .nav-link
 {
         color: rgb(255, 255, 255);
@@ -35,7 +29,6 @@
 
        
 }
-
 
 /* section 2 */
 .section-2{
@@ -72,21 +65,28 @@ div.row.no-gutters{
         /* position: absolute; */
 
 }
+
+
 .section-1 .row.no-gutters .col-md-4 .col2{
         background-color: bisque;
         height: 100vh;
         font-family: mett;
         font-size:2rem;
 }
+
+
 .section-1 .row.no-gutters .col-md-4 .col2 .card{
         height: 100%;
         width: 100%;
         object-fit: cover;
 }
+
+
 .section-1 .row.no-gutters .col .col2{
         background-color: #14453D;
         height: 100vh;
 }
+
 
 .section-2 .row.no-gutters .col .col2{
         background-color: rgb(43, 226, 61);
@@ -94,6 +94,8 @@ div.row.no-gutters{
         font-family: mett;
         font-size:2rem;
 }
+
+
 .section-2 .row.no-gutters .col .col1{
         background-color: rgb(22, 131, 227);
         height: 100vh;
@@ -101,12 +103,15 @@ div.row.no-gutters{
         font-size:2rem;
 }
 
+
 .section-3 .row.no-gutters .col .col1{
         background-color: rgb(43, 226, 67);
         height: 100vh;
         font-family: mett;
         font-size:2rem;
 }
+
+
 .section-3 .row.no-gutters .col .col2{
         background-color: rgb(226, 141, 43);
         height: 100vh;
