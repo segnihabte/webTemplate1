@@ -1,0 +1,45 @@
+@font-face {
+        font-family: Mog;
+        src: url(./assets/fonts/Moglan_DEMO.ttf);
+}
+@font-face {
+        font-family: mett;
+        src: url(./assets/fonts/Metropolis-Thin.otf);
+}
+@font-face {
+        font-family: bran;
+        src: url(./assets/fonts/Branch.ttf);
+}
+
+
+
+/* section 1 */
+.section-1 {
+        height: 100vh;
+        background-color: #3c3a1e;
+       
+}
+
+
+/* section 2 */
+.section-2{
+        height: 100vh;
+        background-color: #e8e0d5;
+}
+
+
+.section-3{
+        height: 100vh;
+        background-color: #3c3a1e;
+}
+
+
+.section-4{
+        height: 100vh;
+        background-color: #e8e0d5;
+}
+
+
+
+
+
